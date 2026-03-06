@@ -6,13 +6,28 @@ hide:
 
 #
 
-Hola, soy José San Martin. Vivo en Santiago de Chile, y soy un analista de datos sociales con interés en temas como corrupción, transparencia, conflicto social, políticas públicas, y confianza en instituciones.
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 1.5rem;">
+  <img src="images/Foto_jose.jpg" alt="Foto José San Martin" 
+       style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <div>
+    <p>Hola, soy José San Martin. Vivo en Santiago de Chile, y soy un analista de datos sociales con interés en temas como corrupción, transparencia, conflicto social, políticas públicas, y confianza en instituciones.</p>
+  </div>
+</div>
 
 ---
 
 ##
 
-1. Trabaja....
+1. 2024 - Actualidad: Analista de datos, Consejo Para La Transparencia, realizando estudios, reportes y otros proyectos relacionados a la transparencia y acceso a la información en Chile y America Latina.
+2. 2023 - 2026: Asistente de investigación en Fondecyt...
+3. 2026: Investigador en Cátedra UNESCO Transparencia y Acceso a la Información, alojada en la Universidad de Santiago de Chile.
+
+---
+
+##
+
+1. Magister en Ciencia de Datos Aplicados, Departamento de Economía, Universidad de Santiago de Chile.
+2. Analista Internacional, Departamento de Estudios Políticos, Universidad de Santiago de Chile.
 
 ---
 
