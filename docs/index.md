@@ -21,7 +21,7 @@ hide:
 1. 2024 - Actualidad: Analista de datos, Consejo Para La Transparencia, realizando estudios, reportes y otros proyectos relacionados a la transparencia y acceso a la información en Chile y America Latina.
 2. 2023: Asistente metodológico, Consejo Para La Transparencia, como asistente del Consejo Directivo.
 3. 2023 - 2026: Asistente de investigación en Fondecyt 11230342 liderado por la Dra. Pamela Figueroa Rubio.
-4. 2026: Investigador en Cátedra UNESCO Transparencia y Acceso a la Información, alojada en la Universidad de Santiago de Chile.
+4. 2026: Asistente de investigación en Cátedra UNESCO Transparencia y Acceso a la Información, alojada en la Universidad de Santiago de Chile.
 
 ---
 
