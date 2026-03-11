@@ -19,15 +19,16 @@ hide:
 ##
 
 1. 2024 - Actualidad: Analista de datos, Consejo Para La Transparencia, realizando estudios, reportes y otros proyectos relacionados a la transparencia y acceso a la información en Chile y America Latina.
-2. 2023 - 2026: Asistente de investigación en Fondecyt...
-3. 2026: Investigador en Cátedra UNESCO Transparencia y Acceso a la Información, alojada en la Universidad de Santiago de Chile.
+2. 2023: Asistente metodológico, Consejo Para La Transparencia, como asistente del Consejo Directivo.
+3. 2023 - 2026: Asistente de investigación en Fondecyt 11230342 liderado por la Dra. Pamela Figueroa Rubio.
+4. 2026: Investigador en Cátedra UNESCO Transparencia y Acceso a la Información, alojada en la Universidad de Santiago de Chile.
 
 ---
 
 ##
 
-1. Magister en Ciencia de Datos Aplicados, Departamento de Economía, Universidad de Santiago de Chile.
-2. Analista Internacional, Departamento de Estudios Políticos, Universidad de Santiago de Chile.
+1. 2024-2026 Magister en Ciencia de Datos Aplicados, Departamento de Economía, Universidad de Santiago de Chile.
+2. 2016-2021 Analista Internacional, Departamento de Estudios Políticos, Universidad de Santiago de Chile.
 
 ---
 
@@ -55,8 +56,10 @@ hide:
 
 ##
 
-1. [Este proyecto es un sistema que permite resumir articulos por lotes y crear "fichas bibligoráficas" para revisión teórica en ciencias sociales.](https://github.com/joseluissanmartinmelio/text-analysis-assisted-by-llm.git)
+1. [Este proyecto es un sistema simple que permite resumir articulos por lotes y crear "fichas bibligoráficas" para revisión teórica en ciencias sociales.](https://github.com/joseluissanmartinmelio/text-analysis-assisted-by-llm.git)
 
 2. [En este articulo, **"Criterios éticos para revisar investigaciones en Ciencias Sociales. Sistematización de una experiencia"**, el objetivo del artículo es sistematizar
 el trabajo de revisión de proyectos del Comité de Ética Institucional (CEI) de la Universidad de Santiago de Chile. Metodológicamente se realizó análisis de contenido de 114 proyectos provenientes de las ciencias sociales.](https://www.redalyc.org/journal/2971/297172169006/297172169006.pdf)
+
+3. [Datos de una revisión sistematica asistida por LLM para clasificación realizada en el contexto del FONDECYT 11230342 liderado por Pamela Figueroa Rubio](https://github.com/joseluissanmartinmelio/data-Political-and-Institutional-Change-in-Chile-A-Systematic-Review)
 
